@@ -1,1 +1,1 @@
-# XBee-Telemetry-Research
+# XBee Telemetry Research
